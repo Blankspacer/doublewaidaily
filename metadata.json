@@ -1,0 +1,6 @@
+{
+  "name": "DayMate AI",
+  "description": "AI-powered personal life assistant that unifies smart reminders, expense tracking, shopping lists, document organizing, and daily planning via voice and text.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
